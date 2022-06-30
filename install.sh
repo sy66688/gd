@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-daili='http://111.foryouone.xyz/'
+daili='https://pd.zwc365.com/'
 
 if [ -d /ql/data/config ];then
     QLMainPath='/ql/data'
